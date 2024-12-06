@@ -1,0 +1,1 @@
+This repository contains examples of uncommon SQL errors and their corresponding solutions.  The focus is on issues beyond simple syntax errors, highlighting problems related to data types, NULL values, and join operations. Each example includes a buggy query and its corrected version, demonstrating best practices for avoiding these pitfalls.
